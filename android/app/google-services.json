@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777457931779",
+    "project_id": "carehealthapps",
+    "storage_bucket": "carehealthapps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777457931779:android:3c96447c7dbabb78612036",
+        "android_client_info": {
+          "package_name": "com.carehealthapps.carehealthapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClO4U2X214ZXIAuv9qqiTpjvYICxVvbJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
