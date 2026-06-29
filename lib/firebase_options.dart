@@ -57,7 +57,6 @@ class DefaultFirebaseOptions {
     projectId: 'carehealthapps',
     storageBucket: 'carehealthapps.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCz5gjJVsctfIxca9tdPiYuq_Oh16-JhZk',
     appId: '1:777457931779:ios:2d16347b24d561cb612036',
@@ -66,7 +65,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'carehealthapps.firebasestorage.app',
     iosBundleId: 'com.carehealthapps.carehealthapps',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCz5gjJVsctfIxca9tdPiYuq_Oh16-JhZk',
     appId: '1:777457931779:ios:2d16347b24d561cb612036',
